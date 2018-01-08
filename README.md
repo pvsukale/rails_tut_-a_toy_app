@@ -2,6 +2,9 @@
 
 This is the repository I created for the first chapter of Rails tutorial.
 
+# Live version
+
+This app is live on [heroku](https://railschapter2.herokuapp.com/)
 
 ## How to run locally
 

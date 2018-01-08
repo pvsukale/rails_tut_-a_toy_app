@@ -1,24 +1,14 @@
-# README
+# Info
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the repository I created for the first chapter of Rails tutorial.
 
-Things you may want to cover:
+# Exercises
 
-* Ruby version
 
-* System dependencies
+## How to run locally
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+cd rails_tut_hello_app
+bundle
+rails s
+```
